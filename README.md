@@ -1,1 +1,1 @@
-# A boilerplate project using __Nodejs__ with __TypeScript__.
+# A boilerplate project using <code>Nodejs</code> with <code>TypeScript</code>.
